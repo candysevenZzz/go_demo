@@ -16,4 +16,5 @@ Golang-tutorial*
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
-src/pkg
+src/pkg/
+store/
